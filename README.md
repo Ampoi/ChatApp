@@ -49,6 +49,6 @@ Vue CLI3とFirebaseを使用したチャットアプリです。
 +-- vue@3.2.29
 
 ## 使用方法
-src/app.vue内にあるFirebase Config内を置き換えれば動きます。
+上記npmパッケージをインストールし、src/app.vue内のfirebaseConfigを書き換えれば動きます。
 なお、使っているFirebaseの機能はFirestore・Hosting・CloudStorage・Authencationですので、コンソールで使えるようにしておいてください。
 また、eslintはWindows用です。
